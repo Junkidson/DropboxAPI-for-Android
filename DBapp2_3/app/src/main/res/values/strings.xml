@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DBapp2_3</string>
+    <string name="action_settings">Settings</string>
+    <!-- Change this to your app key -->
+    <string name="APP_KEY">iasv4fzcdgrukop</string>
+
+    <!-- Strings related to login -->
+    <string name="sign_in">Sign in</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!--<string name="title_activity_main">MainActivity</string>-->
+</resources>
